@@ -19,6 +19,7 @@ public class Cart implements Serializable{
 
 	public ArrayList<LineItem> getItems() {
 		// TODO
+		return null;
 	}
 
 	public void setItems(ArrayList<LineItem> items) {
@@ -51,6 +52,7 @@ public class Cart implements Serializable{
 	
 	public double getTotal() {
 		// TODO : calcul le prix total du panier
+		return 0;
 	}
 
 }

@@ -32,6 +32,7 @@ public class LineItem implements Serializable{
 	
 	public int getQuantity() {
 		//TODO
+		return 0;
 	}
 	
 	public void setQuantity(int quantity) {
@@ -40,9 +41,7 @@ public class LineItem implements Serializable{
 	
 	public double getTotal() {
 		//TODO : calcul le prix total
-		return total;
+		return 0;
 	}
-	
-	
 	
 }
