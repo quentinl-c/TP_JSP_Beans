@@ -18,7 +18,7 @@
                     </tr>
                     <tr><td>La Servante écarlate - Margaret Atwood</td>
                     	<td class="right">12 €</td>
-                        <td><form accept-charset="UTF-8" action="Cart" method="post" >
+                        <td><form accept-charset="UTF-8" action="CartProcess" method="post" >
                         	<input type="hidden" name="productPrice" value=12>
                         	<input type="hidden" name="productCode" value="11">
                         	<input type="hidden" name="productName" value="La Servante ecarlate">
@@ -28,7 +28,7 @@
                     </tr>
                     <tr><td>Beginning Java EE 6 platform with GlassFish 3 - Antoni Gonclaves</td>
                         <td class="right">40.5 €</td>
-                        <td><form accept-charset="UTF-8" action= "Cart" method="post">
+                        <td><form accept-charset="UTF-8" action= "CartProcess" method="post">
                         	<input type="hidden" name="productPrice" value=40.5>
                             <input type="hidden" name="productCode" value="javaee01">
                             <input type="hidden" name="productName" value="Beginning Java EE 6 platform with GlassFish 3">
@@ -38,7 +38,7 @@
                     </tr>
                     <tr><td>Ranger : L'étincelle du bonheur - Marie Kondo</td> 
                         <td class="right">6.80 €</td>
-                        <td><form accept-charset="UTF-8" action="Cart" method="post" >
+                        <td><form accept-charset="UTF-8" action="CartProcess" method="post" >
                         	<input type="hidden" name="productPrice" value=6.80>
                             <input type="hidden" name="productCode" value="ranger01">
                             <input type="hidden" name="productName" value="Ranger : L'etincelle du bonheur">
@@ -48,7 +48,7 @@
                     </tr>
                     <tr><td>L'europe au kaléidoscope - Marianne Dony</td> 
                         <td class="right">56 €</td>
-                        <td><form accept-charset="UTF-8" action="Cart" method="post" >
+                        <td><form accept-charset="UTF-8" action="CartProcess" method="post" >
                         	<input type="hidden" name="productPrice" value=56>
                             <input type="hidden" name="productCode" value="europe01">
                             <input type="hidden" name="productName" value="L'europe au kaleidoscope ">
